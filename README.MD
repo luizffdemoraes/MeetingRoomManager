@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="MeetingRoomManager" src=".img/mrm.png"/>
+    <img alt="MeetingRoomManager" src="./img/mrm.png"/>
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="wMeetingRoomManagerDesktop" src="./img/MeetingRoomManager.png" width="100%">
+  <img alt="MeetingRoomManagerDesktop" src="./img/MeetingRoomManager.png" width="100%"
 </p>
 
 ## 🚀 Tecnologias
