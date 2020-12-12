@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="MeetingRoomManagerDesktop" src="./img/MeetingRoomManager.png" width="100%"
+  <img alt="MeetingRoomManagerDesktop" src="./img/meetingroommanager.png" width="100%"
 </p>
 
 ## 🚀 Tecnologias
